@@ -18,7 +18,7 @@
 ## 👩‍💻 About Me  
 
 I am a **B.Tech Computer Science and Engineering student** at  
-**Shri Vishnu Engineering College for Women**, Andhra Pradesh, with a **CGPA of 8.41**.
+**Shri Vishnu Engineering College for Women**, Andhra Pradesh, with a **CGPA of 8.44**.
 
 I am passionate about **Python, Machine Learning, and Full Stack Development**.  
 I enjoy building practical applications and exploring how data and AI can solve real-world problems.
